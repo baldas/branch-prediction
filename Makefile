@@ -1,7 +1,7 @@
 BINS = bp-example bp-example-sort
 CC = gcc
 
-CFLAGS = -o3
+CFLAGS = -O3
 
 .PHONY:	all clean
 
